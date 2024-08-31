@@ -5,18 +5,22 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Services</h2>
+          <h2>Produk Kami</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Produk Jamur Tiram dari UMKM Jamur Tiram Sunawan dihasilkan dari
+            bahan-bahan pilihan berkualitas tinggi, memastikan jamur tiram yang
+            segar, sehat, dan kaya nutrisi.
           </p>
         </div>
         <div className="row">
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="col-md-4">
-                  {" "}
-                  <i className={d.icon}></i>
+                  {d.icon.includes("img") ? (
+                    <img src={d.icon} alt={d.name} className="product-image" />
+                  ) : (
+                    <i className={d.icon}></i>
+                  )}
                   <div className="service-desc">
                     <h3>{d.name}</h3>
                     <p>{d.text}</p>

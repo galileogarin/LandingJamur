@@ -6,10 +6,11 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Galeri Kami</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Proses budidaya, panen, hingga berbagai kegiatan dan event, setiap
+            momen diabadikan untuk menunjukkan dedikasi kami dalam menghasilkan
+            produk terbaik.
           </p>
         </div>
         <div className="row">

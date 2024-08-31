@@ -1,22 +1,17 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Selamat Datang",
+    "paragraph": "Mitra Terpercaya dalam Budidaya Jamur Tiram"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "UMKM Jamur Tiram Sunawan didirikan oleh Bapak Wawan pada tahun 2013 di desa Gintangan, Kecamatan Rogojampi, Kabupaten Banyuwangi, Jawa Timur. Berawal dari keinginan untuk menyediakan jamur tiram berkualitas tinggi bagi masyarakat sekitar, UMKM ini kini telah berkembang menjadi salah satu pionir dalam budidaya jamur tiram di Banyuwangi.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Kualitas Jamur Tiram yang Terjaga",
+      "Pengalaman dan Keahlian",
+      "Pelayanan Pelanggan yang Prima",
+      "Produk yang Aman dan Sehat"
     ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "Why2": ["Kemitraan dengan Komunitas Lokal", "Budidaya Ramah Lingkungan"]
   },
   "Gallery": [
     {
@@ -67,66 +62,36 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/poducts/baglog.jpeg",
+      "name": "Baglog",
+      "text": "Baglog berisi nutrisi yang siap digunakan untuk menumbuhkan jamur tiram."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/poducts/bibit.jpeg",
+      "name": "Bibit Jamur Tiram",
+      "text": "Bibit F0, F1, dan F2 yang untuk pembudidaya jamur lainnya."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/poducts/jamur.jpeg",
+      "name": "Jamur Tiram Segar",
+      "text": "Jamur segar untuk konsumsi langsung atau digunakan sebagai bahan masakan."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Saya sangat puas dengan produk jamur tiram dari UMKM Jamur Tiram Sunawan. Jamurnya selalu segar dan berkualitas, sangat cocok untuk berbagai hidangan di restoran saya. Pelayanan mereka juga sangat ramah dan responsif. Saya pasti akan terus menjadi pelanggan setia!\"",
+      "name": "Budi Santoso, Pemilik Restoran"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Pelatihan budidaya jamur tiram yang diberikan oleh UMKM Jamur Tiram Sunawan sangat membantu saya sebagai pemula. Mereka membimbing saya dari awal hingga saya bisa memanen sendiri. Sekarang, saya sudah memiliki usaha kecil yang mulai berkembang. Terima kasih atas dukungannya!\"",
+      "name": "Siti Aisyah, Pengusaha Jamur Tiram"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Produk olahan jamur dari UMKM Jamur Tiram Sunawan benar-benar lezat dan inovatif. Nugget jamurnya menjadi favorit keluarga kami. Kami juga senang mengetahui bahwa produk mereka diproduksi secara ramah lingkungan dan mendukung komunitas lokal.\"",
+      "name": "Andi Prasetyo, Konsumen"
     }
   ],
   "Team": [
@@ -152,9 +117,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Dusun Krajan, Gintangan, Kec. Rogojampi, Kabupaten Banyuwangi, Jawa Timur 68462",
+    "phone": "+62 123 456 789",
+    "email": "jamurtiram_sunawan@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +127,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Produk Segar Berkualitas",
+      "text": "Kami menyediakan jamur tiram segar yang dipanen langsung dari kebun kami, memastikan produk yang Anda dapatkan selalu dalam kondisi terbaik."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Layanan Cepat dan Aman",
+      "text": "Kami menawarkan layanan pengiriman yang cepat dan aman, memastikan produk tiba di tangan Anda dalam kondisi segar dan siap diolah."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Dukungan untuk Mitra",
+      "text": "Kami mendukung mitra usaha dengan menyediakan pasokan bibit, media tanam, serta bimbingan untuk membantu dalam budidaya."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Pelatihan dan Konsultasi",
+      "text": "Kami menawarkan pelatihan dan konsultasi bagi yang ingin mengembangkan bisnis jamur tiram, berbagi pengetahuan dan teknik terbaik kami."
     }
   ]
 }
